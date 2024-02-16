@@ -32,7 +32,7 @@ Los proyectos hechos con angular suelen usar el Angular CLI (Command Line Interp
 
 Colocarse desde la consola a nivel de la carpeta raíz del proyecto, algo así:
 
-C:\Users\tuuser\Desktop\proyecto>
+* C:\Users\tuuser\Desktop\proyecto> *
 
 Una vez dentro de dicha carpeta  ejecutar el comando:
 
