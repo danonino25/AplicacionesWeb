@@ -15,7 +15,7 @@ Cambiar el directorio de trabajo actual a la ubicación en donde se quiere clona
 
 Escribir git clone y peguar la dirección URL que se ha copiado antes.
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Presionar Entrar para crear el clon local.
 
@@ -32,14 +32,14 @@ Los proyectos hechos con angular suelen usar el Angular CLI (Command Line Interp
 
 Colocarse desde la consola a nivel de la carpeta raíz del proyecto, algo así:
 
-* C:\Users\tuuser\Desktop\proyecto> *
+* C:\Users\tuuser\Desktop\proyecto> 
 
 Una vez dentro de dicha carpeta  ejecutar el comando:
 
-C:\Users\tuuser\Desktop\proyecto> npm install
+* C:\Users\tuuser\Desktop\proyecto> npm install
 
 Este comando instalará las dependencias (en ./node_modules). Una vez se tengan las dependencias bajadas, solo faltará ejecutar
 
-ng serve
+* ng serve
 
 Que ejecutará un servidor web que escucha en el puerto 4200, con lo que se podrá probar la aplicación tal cual está (http://localhost:4200)
