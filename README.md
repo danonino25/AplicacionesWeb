@@ -1,18 +1,21 @@
 <h1 align="center"> ambg-shop </h1>
 
-<img src="https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png"
+<img align="center"  src="https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png"
      alt="HTML image alt text"
      title="avatar_ana"
 />
 
-# Pasos para descargar repositorio: 
+# Pasos para clonar repositorio: 
 
-Encima de la lista de archivos, hacer clic en  Código.
-![image](https://github.com/danonino25/AplicacionesWeb/assets/116208398/8d6a8df7-75ad-4e9e-8c48-df27a537cee6)
+Abrir Gith Bash 
+--Colocarse en la carpeta destinada para guardadar el proyecto localmente 
+```
+cd/proyecto_ambg
+```
 
 Copiar la dirección URL del repositorio.
 
-![image](https://github.com/danonino25/AplicacionesWeb/assets/116208398/9ce0661c-456c-4c78-a234-daec32b21c29)
+https://github.com/danonino25/AplicacionesWeb
 
 
 Abrir Git Bash.
