@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "fullname": "Dana",
+      "email": "dananita2003mar@gmail.com",
+      "password": "Hola123*"
+    },
+    {
+      "id": "002",
+      "fullname": "Rama",
+      "email": "ramiroherrera@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "003",
+      "fullname": "Ana",
+      "email": "anabg@gmail.com",
+      "password": "45678901"
+    },
+    {
+      "id": "6c31",
+      "fullname": "Karla",
+      "email": "karla@gmail.com",
+      "password": "karla123"
+    },
+    {
+      "id": "a621",
+      "fullname": "Carmen",
+      "email": "eugenia@gmai.com",
+      "password": "carmen123"
+    }
+  ]
+}

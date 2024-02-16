@@ -1,24 +1,29 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { CardModule } from 'primeng/card';
 import { ButtonModule } from 'primeng/button';
-import { InputTextModule} from 'primeng/inputtext';
+import { CardModule } from 'primeng/card';
+import { InputTextModule } from 'primeng/inputtext';
+import { MenubarModule } from 'primeng/menubar';
+import { PasswordModule } from 'primeng/password';
+import { ToastModule } from 'primeng/toast';
 
-//Modulos PrimeNG
-const modPrimeng: any=[
+const modPrimeNg:any = [
+  ButtonModule,
   CardModule,
   InputTextModule,
-  ButtonModule
+  MenubarModule,
+  PasswordModule,
+  ToastModule
 ];
 
 @NgModule({
   declarations: [],
   imports: [
     CommonModule,
-    modPrimeng
+    modPrimeNg
   ],
-  exports:[
-    modPrimeng
+  exports: [
+    modPrimeNg
   ]
 })
 export class PrimengModule { }
