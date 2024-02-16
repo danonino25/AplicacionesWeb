@@ -19,7 +19,6 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Presionar Entrar para crear el clon local.
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Cloning into `Spoon-Knife`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
