@@ -1,27 +1,46 @@
 # AmbgShop
+# Pasos para descargar repositorio: 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Encima de la lista de archivos, hacer clic en  Código.
+![image](https://github.com/danonino25/AplicacionesWeb/assets/116208398/8d6a8df7-75ad-4e9e-8c48-df27a537cee6)
 
-## Development server
+Copiar la dirección URL del repositorio.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/danonino25/AplicacionesWeb/assets/116208398/9ce0661c-456c-4c78-a234-daec32b21c29)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Abrir Git Bash.
 
-## Build
+Cambiar el directorio de trabajo actual a la ubicación en donde se quiere clonar el directorio.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Escribir git clone y peguar la dirección URL que se ha copiado antes.
 
-## Running unit tests
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Presionar Entrar para crear el clon local.
 
-## Running end-to-end tests
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+# Instalar dependencias
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Los proyectos hechos con angular suelen usar el Angular CLI (Command Line Interpreter), pero siguen dependiendo de npm, así que los pasos para probarlo serían:
+
+Colocarse desde la consola a nivel de la carpeta raíz del proyecto, algo así:
+
+C:\Users\tuuser\Desktop\proyecto>
+
+Una vez dentro de dicha carpeta  ejecutar el comando:
+
+C:\Users\tuuser\Desktop\proyecto> npm install
+
+Este comando instalará las dependencias (en ./node_modules). Una vez se tengan las dependencias bajadas, solo faltará ejecutar
+
+ng serve
+
+Que ejecutará un servidor web que escucha en el puerto 4200, con lo que se podrá probar la aplicación tal cual está (http://localhost:4200)
