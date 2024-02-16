@@ -1,4 +1,10 @@
 # AmbgShop
+
+<img src="https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png"
+     alt="HTML image alt text"
+     title="avatar_ana"
+/>
+
 # Pasos para descargar repositorio: 
 
 Encima de la lista de archivos, hacer clic en  Código.
