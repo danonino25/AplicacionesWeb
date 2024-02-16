@@ -8,12 +8,6 @@
 # Pasos para clonar repositorio: 
 
 
-Copiar la dirección URL del repositorio.
-
-```
-https://github.com/danonino25/AplicacionesWeb
-```
-
 Abrir Gith Bash 
 Cambiar el directorio de trabajo actual a la ubicación en donde se quiere clonar el directorio. 
 ```
@@ -22,7 +16,7 @@ cd/proyecto_ambg
 
 Escribir git clone y peguar la dirección URL que se ha copiado antes.
 ```
- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ git clone https://github.com/danonino25/AplicacionesWeb
 ```
 Presionar Entrar para crear el clon local.
 
@@ -30,6 +24,8 @@ Presionar Entrar para crear el clon local.
 # Instalar dependencias
 
 Los proyectos hechos con angular suelen usar el Angular CLI (Command Line Interpreter), pero siguen dependiendo de npm, así que los pasos para probarlo serían:
+
+Ir a la carpeta raiz del proyecto en Visual Studio Code
 
 Una vez dentro de dicha carpeta  ejecutar el comando:
 ```
