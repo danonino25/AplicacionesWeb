@@ -44,5 +44,5 @@ json-server --watch db.json
 
 Que ejecutará un servidor web que escucha en el puerto 4200, con lo que se podrá probar la aplicación tal cual está:
 ```
-(http://localhost:4200)
+http://localhost:4200
 ```
