@@ -14,7 +14,7 @@ Cambiar el directorio de trabajo actual a la ubicación en donde se quiere clona
 cd/proyecto_ambg
 ```
 
-Escribir git clone y peguar la dirección URL que se ha copiado antes.
+Escribir git clone y peguar la dirección URL del proyecto.
 ```
  git clone https://github.com/danonino25/AplicacionesWeb
 ```
